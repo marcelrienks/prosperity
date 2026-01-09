@@ -4,8 +4,7 @@
 
 A modern web application for personal portfolio tracking, replacing Excel-based investment tracking with real-time price updates, minimal data entry, and flexible portfolio management.
 
-[![Status](https://img.shields.io/badge/status-design-blue.svg)](https://github.com/marcelrienks/Prosperity)
-[![License](https://img.shields.io/badge/license-personal-lightgrey.svg)](#)
+[![Status Badge](https://img.shields.io/badge/status-design-blue.svg)](https://github.com/marcelrienks/prosperity)
 
 ## 🎯 Project Overview
 
